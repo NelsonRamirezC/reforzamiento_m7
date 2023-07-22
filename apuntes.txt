@@ -1,0 +1,29 @@
+package utilizados: 
+npm i express cors morgan pg pg-hstore sequelize
+
+dependencias de desarrollo:
+
+npm i nodemon -D
+
+
+CONECTANDO A LA BASE DATOA (CONFIGURACIÓN)
+https://sequelize.org/docs/v6/getting-started/#connecting-to-a-database
+
+POOL DE CONEXIÓN DE POSTGRES
+https://sequelize.org/docs/v6/other-topics/connection-pool/
+
+
+
+CREACIÓN DE MODELOS:
+https://sequelize.org/docs/v6/core-concepts/model-basics/#using-sequelizedefine
+
+
+VALIDACIONES:
+https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/#per-attribute-validations
+
+
+RELACIONES UNO A UNO Y UNO A MUCHOS
+https://sequelize.org/docs/v6/core-concepts/assocs/
+
+RELACIONES MUCHOS A MUCHOS
+https://sequelize.org/docs/v6/advanced-association-concepts/advanced-many-to-many/
